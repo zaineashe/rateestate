@@ -1,0 +1,2 @@
+# rateestate
+Queensland University of Technology project authored by Zaine Ashe and Nathan Haslam (student numbers 09469010 and 09830022 respectively). Park finding web app project using PHP, Javascript, AJAX, CSS, HTML and SQL database management. Focus on security involving sanitised search bar inputs, SHA256 hashed password storage and PDO prepared statements to prevent SQL injection. Fully sanitized user creation functionality with front end and back end authentication. Google Maps API compatibility and a functioning aggregate 'star-based' user reviews system.

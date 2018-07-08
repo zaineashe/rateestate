@@ -13,10 +13,10 @@
   // should be encrypted and stored externally.
   //   ---
   // initialises server name, username, password and database name
-	$servername = "fastapps04.qut.edu.au";
-	$username = "n9469010";
-	$password = "password";
-	$dbname = "n9469010";
+	$servername = "XXXXXXXXXXXXXxx";
+	$username = "XXXXXXXXXXXXXxx";
+	$password = "XXXXXXXXXXXXXxx";
+	$dbname = "XXXXXXXXXXXXXxx";
 
   //initialise conn as a new PDO object
   //uses initialised credentials to establish connection
